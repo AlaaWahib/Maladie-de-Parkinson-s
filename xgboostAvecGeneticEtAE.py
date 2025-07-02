@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jun 12 18:11:45 2025
-
-@author: user
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Parkinson Detection with Autoencoder + Genetic Algorithm + XGBoost
 """
 
